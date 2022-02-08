@@ -1,12 +1,12 @@
-### <p align="center"><b>Selamat Datang di Aloevera Edhotel</b></p>
+### <p align="center"><b>Welcome to Aloevera Edhotel</b></p>
 
 ------------
 
-## 🤔 Apa itu Aloevera Edhotel?
+## 🤔 What is Aloevera Edhotel?
 
-Aloevera Edhotel merupakan sistem reservasi hotel yang bertujuan untuk mempermudah pemesanan kamar hotel agar lebih terstruktur. Sistem ini dibuat dengan bahasa pemprograman C.
+Aloevera Edhotel is a hotel reservation system that aims to make it easier to book hotel rooms so that they are more structured. This system is built with the C programming language.
 
-## 🤨 Fitur apa saja yang tersedia di Aloevera Edhotel?
+## 🤨 Feature
 - Authentification (Login & Logout)
 - CRUD (Create, Read, Update, Delete) User
 - CRUD (Create, Read, Update, Delete) Room
@@ -14,7 +14,7 @@ Aloevera Edhotel merupakan sistem reservasi hotel yang bertujuan untuk mempermud
 - Report
 
 ## 💻 Install
-- Clone Repositori
+- Clone Repository
 ```bash
 git clone https://github.com/garllockhart/AloeveraEdhotel.git
 ```
