@@ -24,8 +24,8 @@ cd AloeveraEdhotel
 
 ## 🧑 Author
 👤 **Garly Nugraha**
-- Instagram : <a href="https://www.instagram.com/garlockhart/">@garlockhart</a>
-- Twitter : <a href="https://twitter.com/garlockhart/">@garlockhart</a>
+- Instagram : <a href="https://www.instagram.com/garllockhart/">@garllockhart</a>
+- Twitter : <a href="https://twitter.com/garllockhart/">@garllockhart</a>
 
 👤 **Nazwa Fitriyani Zahra**
 - Instagram : <a href="https://www.instagram.com/nazwafitriyanizz/">@nazwafitriyanizz</a>
