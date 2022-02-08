@@ -1,7 +1,18 @@
-#include <iostream>
+/*
+File Name		: main.cpp
+Description		: 
+Author			: Garly Nugraha & Nazwa Fitriyani Zahra
+Date			: 08/12/2001
+*/
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/* ========== Header File ========== */
+#include "welcome.h"
+/* ======= End of Header File ====== */
 
-int main(int argc, char** argv) {
-	return 0;
+int main()
+{
+	/* Call Modul Welcome */
+    Welcome();
+
+    return 0;
 }
